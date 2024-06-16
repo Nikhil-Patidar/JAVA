@@ -13,5 +13,3 @@ class Read
  System.out.println("Name is : "+name+"\nEmployee id is : "+id+"\nEmployee salary is : "+salary);
 }
 }
-
-
