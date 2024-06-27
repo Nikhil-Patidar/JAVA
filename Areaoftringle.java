@@ -12,4 +12,4 @@ A.b=20;
 area=(A.h*A.b)/2;
 System.out.println(area);
  }
-}
+}
