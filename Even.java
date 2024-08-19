@@ -14,4 +14,4 @@ if(n%2==0)
 else
 System.out.println("The number is odd");
 }
-}
+}
