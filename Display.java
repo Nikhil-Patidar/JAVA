@@ -1,3 +1,4 @@
+
 public import java.util.Scanner;
 class Display{
  public static void main(String a[]){
