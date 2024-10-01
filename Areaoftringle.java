@@ -16,5 +16,3 @@ System.out.println(area);
 
 
 
-
-
