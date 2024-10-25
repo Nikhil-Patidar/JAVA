@@ -8,7 +8,6 @@ ArRect A=new ArRect();
 area=A.l*A.b;
 System.out.println("Area of Rectangle : "+area);
 }
-
 }
 
 
