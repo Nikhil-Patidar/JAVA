@@ -13,3 +13,4 @@ for(i=1;i<=n;i++)
 System.out.println("The sum of "+n+" numbers : "+sum);
 }
 }
+
