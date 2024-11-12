@@ -9,12 +9,3 @@ area=A.l*A.b;
 System.out.println("Area of Rectangle : "+area);
 }
 }
-
-
-
-
-
-
-
-
-
